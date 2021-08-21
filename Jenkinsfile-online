@@ -17,7 +17,6 @@ pipeline {
         DOCKERHUB_NAMESPACE = 'planetfish'
         GITHUB_ACCOUNT = 'planetfish'
         APP_NAME = 'devops-java-sample'
-        SONAR_CREDENTIAL_ID = 'sonar-token'
     }
 
     stages {
